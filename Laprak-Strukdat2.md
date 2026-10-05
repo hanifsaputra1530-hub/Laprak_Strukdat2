@@ -333,7 +333,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 
-<img width="1187" height="922" alt="Screenshot 2026-10-05 150045" src="https://github.com/user-attachments/assets/7fc12312-ab3d-4a14-881d-c34b2f3202d5" />
+<img width="1187" height="922" alt="Screenshot 2026-10-05 150045" src="https://github.com/hanifsaputra1530-hub/Laprak_Strukdat2/blob/main/Screenshot%202026-10-06%20011037.png" />
 
 Kode C++ di atas digunakan untuk mengoperasikan dua buah matriks berukuran 3x3 (Matriks A dan Matriks B).Secara rinci, program tersebut melakukan hal-hal berikut:Input Data: Meminta pengguna memasukkan nilai elemen-elemen untuk Matriks A dan Matriks B yang masing-masing berukuran 3x3 (total 9 angka untuk tiap matriks).Penjumlahan Matriks ($A + B$): Menjumlahkan elemen matriks A dengan elemen matriks B pada posisi/indeks yang sama.Pengurangan Matriks ($A - B$): Mengurangi elemen matriks A dengan elemen matriks B pada posisi/indeks yang sama.Perkalian Matriks ($A \times B$): Melakukan perkalian matriks secara aljabar linier (perkalian baris matriks A dengan kolom matriks B).Output Hasil: Menampilkan hasil penjumlahan, pengurangan, dan perkalian matriks tersebut ke layar komputer.
 ### 2. Berdasarkan guided pointer dan reference sebelumnya, buatlah keduanya dapat menukar nilai dari 3 variabel
