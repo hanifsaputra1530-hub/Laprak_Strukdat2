@@ -512,7 +512,7 @@ void hitungRataRata(int arr[], int n) {
 ### Output Unguided 3 :
 
 ##### Output 
-![Screenshot Output Unguided 3_2](https://github.com/andistafirza-droid/Laprak-Strukdat-Modul2/blob/main/04-10-2026/Screenshoot/Output-Unguided-Three.png)
+![Screenshot Output Unguided 3_2](https://github.com/hanifsaputra1530-hub/Laprak_Strukdat2/blob/main/Screenshot%202026-10-06%20011439.png)
 
 Kode C++ tersebut adalah program menu interaktif untuk mengolah dan menganalisis elemen-elemen di dalam array.
 
