@@ -388,7 +388,7 @@ void tukarReferensi(int &x, int &y, int &z) {
 ### Output Unguided 2 :
 
 ##### Output 
-![Screenshot Output Unguided 2_2](https://github.com/andistafirza-droid/Laprak-Strukdat-Modul2/blob/main/04-10-2026/Screenshoot/Output-Unguided-Two.png)
+![Screenshot Output Unguided 2_2](https://github.com/hanifsaputra1530-hub/Laprak_Strukdat2/blob/main/Screenshot%202026-10-06%20011335.png)
 
 Kode C++ tersebut digunakan untuk rotasi/pergeseran nilai tiga buah variabel (a, b, dan c) menggunakan dua pendekatan pemanggilan fungsi (pass-by-reference): menggunakan pointer dan menggunakan reference.
 
